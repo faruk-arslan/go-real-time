@@ -11,7 +11,7 @@ This project is a real-time application built using Go. It demonstrates how to h
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/faruk-arslan/go-real-time
+    git clone https://github.com/faruk-arslan/go-real-time.git
     cd go-real-time
     ```
 
